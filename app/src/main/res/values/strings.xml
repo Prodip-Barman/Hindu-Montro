@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HinduMontro</string>
+
+    <string-array name="title">
+        <item>Python</item>
+        <item>Notepad</item>
+        <item>CSS</item>
+        <item>HTML</item>
+        <item>PHP</item>
+    </string-array>
+
+</resources>
